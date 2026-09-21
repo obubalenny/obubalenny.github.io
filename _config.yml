@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Lenson Obuba"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/bio-photo.png"
   bio              : "Result-driven ICT and Data Professional with practical experience in IT support, customer-facing technology environments, and technical project development. Formally trained through the prestigious ALX Data Science Program with proven proficiency in Python, SQL, PostgreSQL, data analytics, and advanced spreadsheet analysis. Leverages a solid foundational background from an IT Support attachment at Huduma Centre alongside hands-on software development experience, including engineering a school management system and a blogging platform. A proactive problem-solver combining strong technical acumen with exceptional communication and teamwork skills to optimize operational efficiency."
   location         : "Nairobi, Kenya"
   email            :
