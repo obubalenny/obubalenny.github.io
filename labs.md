@@ -72,7 +72,7 @@ Operating within enterprise cybersecurity infrastructure requires complete comfo
 
 ### 📸 Documentation & Verification
 * 🔗 **[View My Official HTB Linux Module Completion Profile](https://academy.hackthebox.com/achievement/2865856/18)**
-* *![HTB Linux Fundamentals Certificate Placeholder](https://placehold.co)*
+![HTB Linux Fundamentals Certificate Placeholder](/linux-fundamental-module.png)
 
 ### 🔑 Key Lessons Learned
 * Mastered granular user permissions management (`chmod`, `chown`) to enforce the principle of least privilege.
@@ -92,7 +92,7 @@ Entering the offensive or defensive security landscape requires a cohesive under
 
 ### 📸 Documentation & Verification
 * 🔗 **[View My Official HTB Getting Started Completion Profile](https://academy.hackthebox.com/achievement/2865856/77)**
-* *![HTB Getting Started Screenshot Placeholder](https://placehold.co)*
+![HTB Getting Started Screenshot Placeholder](/getting-started-module.png)
 
 ### 🔑 Key Lessons Learned
 * Reinforced the core security mindset: comprehensive asset discovery always dictates the ultimate success rate of an engagement.
