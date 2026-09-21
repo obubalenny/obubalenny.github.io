@@ -1,8 +1,6 @@
 ---
 layout: single
 author_profile: true
-header:
-  overlay_color: "#1e1e2e"
 ---
 
 # 🚀 Lenson Obuba
@@ -19,7 +17,7 @@ I am an ICT specialist focused on **system diagnostic triage**, **secure databas
 
 ### 🔍 Quick Site Navigation
 
-To explore my technical engineering projects and professional background, use the quick navigation buttons below or access the menu options located at the top right of your screen:
+To explore my technical engineering projects and professional background, use the quick navigation links below or access the menu choices located at the top right of your screen:
 
 * 📄 **[View My Professional Resume](/resume/)**  
   Review my complete background across system infrastructure troubleshooting, technical coursework history, and professional training certifications.
