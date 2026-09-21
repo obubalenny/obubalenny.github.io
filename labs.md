@@ -57,3 +57,43 @@ Raw asset datasets and operational system logs often mask structural indicators 
 ### 🔑 Key Lessons Learned
 * Strengthened abilities to frame abstract analytical questions into concrete PostgreSQL query pipelines.
 * Gained deep familiarity with data literacy baselines, which directly support mapping log entries during forensic investigation tasks.
+
+---
+
+## 🐧 Lab 4: Linux Fundamentals — Hack The Box (HTB) Academy
+* **Core Focus:** POSIX System Administration, File System Security, and Command-Line Automation
+
+### 📑 Problem Statement
+Operating within enterprise cybersecurity infrastructure requires complete comfort in non-GUI Linux environments. Security personnel must navigate directories efficiently, audit system processes, read configuration logs, and handle file system access controls safely without breaking running services.
+
+### 🛠️ Approach & Tools Used
+* **Tools:** Kali Linux, Bash Shell, SSH Terminal Environments, Hack The Box Academy.
+* **Methodology:** Completed the intensive structural module covering the Linux terminal environment. The course involved hands-on target system exploitation requiring advanced pipeline chaining (`|`), text manipulation tools (`grep`, `awk`, `sed`), user account privilege separation, and system directory analysis.
+
+### 📸 Documentation & Verification
+* 🔗 **[View My Official HTB Linux Module Completion Profile](https://academy.hackthebox.com/achievement/2865856/18)**
+* *![HTB Linux Fundamentals Certificate Placeholder](https://placehold.co)*
+
+### 🔑 Key Lessons Learned
+* Mastered granular user permissions management (`chmod`, `chown`) to enforce the principle of least privilege.
+* Streamlined raw text log inspection speeds by combining filtering flags and regex searches inside live target instances.
+
+---
+
+## 🚀 Lab 5: Getting Started Module — Hack The Box (HTB) Academy
+* **Core Focus:** Penetration Testing Methodology, Vulnerability Assessment, and Exploitation Baselines
+
+### 📑 Problem Statement
+Entering the offensive or defensive security landscape requires a cohesive understanding of the comprehensive penetration testing lifecycle. A practitioner must know how to enumerate remote targets systematically rather than firing blind exploits that can trigger security alerts or system crashes.
+
+### 🛠️ Approach & Tools Used
+* **Tools:** Nmap, Gobuster, Metasploit Framework, Netcat, John the Ripper.
+* **Methodology:** Completed the foundational hands-on laboratory environment covering entry-level cybersecurity workflows. This comprehensive review involved executing port discovery scans, directory hunting for hidden endpoints, executing web application exploits, and performing privilege escalation layers to claim root access tokens.
+
+### 📸 Documentation & Verification
+* 🔗 **[View My Official HTB Getting Started Completion Profile](https://academy.hackthebox.com/achievement/2865856/77)**
+* *![HTB Getting Started Screenshot Placeholder](https://placehold.co)*
+
+### 🔑 Key Lessons Learned
+* Reinforced the core security mindset: comprehensive asset discovery always dictates the ultimate success rate of an engagement.
+* Developed safe reverse shell handling frameworks and foundational hashing extraction techniques.
