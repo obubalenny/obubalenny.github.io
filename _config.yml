@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+title                    : "Lenson Obuba | Personal Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Lenson Obuba"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -114,16 +114,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lenson Obuba"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Result-driven ICT and Data Professional with practical experience in IT support, customer-facing technology environments, and technical project development. Formally trained through the prestigious ALX Data Science Program with proven proficiency in Python, SQL, PostgreSQL, data analytics, and advanced spreadsheet analysis. Leverages a solid foundational background from an IT Support attachment at Huduma Centre alongside hands-on software development experience, including engineering a school management system and a blogging platform. A proactive problem-solver combining strong technical acumen with exceptional communication and teamwork skills to optimize operational efficiency."
+  location         : "Nairobi, Kenya"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+      url: "obubalenny@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -135,7 +135,11 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/obubalenny"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/lenson-n-obuba-262366420"
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
