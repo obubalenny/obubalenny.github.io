@@ -4,6 +4,8 @@ main:
     url: /resume/
   - title: "Lab Challenges"
     url: /labs/
+  - title: "Projects"
+    url: /projects/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
