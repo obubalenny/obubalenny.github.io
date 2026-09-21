@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
+title: "Lenson Obuba"
+hide_title: true
 ---
-
-# 🚀 Lenson Obuba
 
 ### Cybersecurity Enthusiast | ICT & Data Analytics Specialist
 
