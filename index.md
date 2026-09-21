@@ -2,9 +2,13 @@
 layout: single
 author_profile: true
 header:
-  overlay_color: "#1c2434"
-  title: "Lenson Obuba"
-  excerpt: "Cybersecurity Enthusiast | ICT & Data Analytics Specialist"
+  overlay_color: "#1e1e2e"
+---
+
+# 🚀 Lenson Obuba
+
+### Cybersecurity Enthusiast | ICT & Data Analytics Specialist
+
 ---
 
 ### 👋 Welcome to My Portfolio
