@@ -216,3 +216,20 @@ header {
     margin-top: 30px;
     flex-wrap: wrap;
 } 
+
+/* --- Profile Picture Styles --- */
+.profile-pic {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%; /* Makes it a perfect circle */
+    border: 3px solid #00ff41; /* Hacker Green Border */
+    box-shadow: 0 0 25px rgba(0, 255, 65, 0.5); /* Glowing effect */
+    margin-bottom: 25px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.profile-pic:hover {
+    transform: scale(1.05); /* Slight zoom on hover */
+    box-shadow: 0 0 35px rgba(0, 255, 65, 0.8);
+} 
