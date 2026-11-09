@@ -1,8 +1,7 @@
 # 💻 My-Portfolio
 
-> `root@obubalenny:~# ./start_portfolio.sh`
+> `root@obubalenson:~# ./start_portfolio.sh`
 
-A custom-built, hacker-themed portfolio website for **Lenson Obuba** (SOC Analyst & Security Analyst). 
 
 This repository contains the source code for my professional portfolio, showcasing my technical arsenal, hands-on cybersecurity labs, and data analytics projects.
 
