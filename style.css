@@ -151,3 +151,51 @@ section {
 header {
     padding-top: 150px; 
 } 
+
+/* --- Skills Grid Layout --- */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 30px;
+}
+
+/* --- Individual Skill Cards --- */
+.skill-card {
+    background-color: #111111;
+    border: 1px solid #333;
+    padding: 25px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.skill-card:hover {
+    border-color: #00ff41;
+    box-shadow: 0 0 15px rgba(0, 255, 65, 0.15);
+    transform: translateY(-5px); /* Makes the card float up slightly */
+}
+
+.skill-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    border-bottom: 1px dashed #333;
+    padding-bottom: 10px;
+}
+
+/* Style the list inside the cards */
+.skill-card ul {
+    list-style: none; /* Removes the default bullet points */
+}
+
+.skill-card ul li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #d1d5db;
+}
+
+/* Adds a cool little terminal arrow before every skill */
+.skill-card ul li::before {
+    content: "> ";
+    color: #00ff41;
+    font-weight: bold;
+} 
